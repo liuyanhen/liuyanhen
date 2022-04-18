@@ -3,7 +3,7 @@
 ## 瑾宸
 
 学习ing
-
+![liuyanhen's github stats](https://github-readme-stats.vercel.app/api?username=liuyanhen&show_icons=true&theme=vue)
 ### **社交主页：**
 
 ### **技术栈:**
@@ -17,6 +17,6 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=liuyanhen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![liuyanhen's github stats](https://github-readme-stats.vercel.app/api?username=liuyanhen&show_icons=true&theme=vue)
+
 
 
