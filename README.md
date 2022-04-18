@@ -1,6 +1,6 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:liuyanhen?theme=rule34">
 
-## 前端工程师—天平
+## 初学者—YY
 
 热爱前端、热爱技术。工作经验9个月。喜欢参与一些开源项目的讨论。
 
@@ -21,13 +21,13 @@
 
 ### 开源项目
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=liuyanhen&repo=qq-bot)](https://github.com/liuyanhen/qq-bot)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=liuyanhen&repo=vue3-electron-serialport)](https://github.com/liuyanhen/vue3-electron-serialport)
 <br><br><br>
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=liuyanhen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![liuyanhen's github stats](https://github-readme-stats.vercel.app/api?username=liuyanhen-ty&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyanhen)
