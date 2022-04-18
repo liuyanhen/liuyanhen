@@ -28,6 +28,6 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=liuyanhen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![liuyanhen's github stats](https://github-readme-stats.vercel.app/api?username=liuyanhen-ty&show_icons=true&theme=vue)
+![liuyanhen's github stats](https://github-readme-stats.vercel.app/api?username=liuyanhen&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyanhen)
